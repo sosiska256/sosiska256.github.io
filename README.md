@@ -4,7 +4,7 @@
 ~~~mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[пост в лицей] -->|че то делаеш| B(подготовка)
+B --> C{сдача егэ}
+C -->|сдал| D[универ]
+C -->|не сдал| E[помойка]
